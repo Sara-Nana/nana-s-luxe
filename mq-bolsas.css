@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 500px) {
+    header > div {
+        height: 250px;
+        width: 500px;
+    }
+    section > div {
+    }
+}
