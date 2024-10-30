@@ -89,10 +89,8 @@ section > div {
     background-image: url(imagens/image.png);
 }
 .img5 {
-    background-image: url(https://cdn.discordapp.com/attachments/1285657709374476340/1300900837299847198/image.png?ex=672285d1&is=67213451&hm=f5335ab41a795bb7e06bc25286cf791998e66a595ba4bc15b7a8e32ecd838c4f&);
+    background-image: url(https://cdn.discordapp.com/attachments/1285657709374476340/1300900837299847198/image.png?ex=6723d751&is=672285d1&hm=991ac73e378d266cd50e33b7a7076b7aff6d98f884d0a01a6717a79b9f90d24d&);
 }
 .img6 {
     background-image: url(https://cdn.discordapp.com/attachments/1285657709374476340/1300909782143864952/image.png?ex=67228e25&is=67213ca5&hm=688b2be67c14374c3abe2e18ba312df442b56acc1468ce5263ca0fd31e4fba85&);
 }
-
-/*USAR MQ PARA DEIXAR O BANNER COVER A PARTIR DOS 450PX*/
