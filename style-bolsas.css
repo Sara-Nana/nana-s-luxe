@@ -3,8 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gayathri:wght@100;400;700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+CU&family=Tangerine:wght@400;700&display=swap');
 
 :root {
-    --cor01: #D88953;
-    --cor02: #C89868;
+    --cor01: #c89868;
 }
 
 * {
@@ -51,25 +50,23 @@ header > div {
 main {
     display: flex;
     flex-flow: row wrap;
-
     background-color: #ffffff;
-    margin: 20px; /*por enquanto*/
+    margin: 20px; 
 }
 section {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
-    flex: 0 0 250px;
-    gap: 50px;
-
-    background-color: var(--cor02);
-    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.281);
+    flex: 1 0 250px;
+    gap: 20px;
+    
+    background-color: var(--cor01);
+    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.308);
     border-radius: 5px;
-    padding: 30px;
+    padding: 40px 20px;
     margin: auto;
 }
 section > div {
-    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
